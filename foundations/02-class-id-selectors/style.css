@@ -1,0 +1,19 @@
+.para {
+    background-color: #edafe4;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.para.cool {
+    font-size: 24px;
+}
+
+#first-div {
+    color: #2e28d4;
+    font-size: 36px;
+}
+
+#second-div {
+    background-color: #8bf7ab;
+    font-size: 24px;
+    font-weight: bold;
+}
